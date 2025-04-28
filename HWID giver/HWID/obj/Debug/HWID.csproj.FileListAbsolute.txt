@@ -1,0 +1,22 @@
+D:\remory\HWID\HWID\bin\Debug\HWID.exe.config
+D:\remory\HWID\HWID\bin\Debug\HWID.exe
+D:\remory\HWID\HWID\bin\Debug\HWID.pdb
+D:\remory\HWID\HWID\obj\Debug\HWID.csproj.AssemblyReference.cache
+D:\remory\HWID\HWID\obj\Debug\HWID.Form1.resources
+D:\remory\HWID\HWID\obj\Debug\HWID.Properties.Resources.resources
+D:\remory\HWID\HWID\obj\Debug\HWID.csproj.GenerateResource.cache
+D:\remory\HWID\HWID\obj\Debug\HWID.csproj.CoreCompileInputs.cache
+D:\remory\HWID\HWID\obj\Debug\HWID.exe
+D:\remory\HWID\HWID\obj\Debug\HWID.pdb
+C:\Users\Андрей\Downloads\Telegram Desktop\HWID giver\HWID giver\HWID\bin\Debug\HWID.exe.config
+C:\Users\Андрей\Downloads\Telegram Desktop\HWID giver\HWID giver\HWID\bin\Debug\HWID.exe
+C:\Users\Андрей\Downloads\Telegram Desktop\HWID giver\HWID giver\HWID\bin\Debug\HWID.pdb
+C:\Users\Андрей\Downloads\Telegram Desktop\HWID giver\HWID giver\HWID\obj\Debug\HWID.csproj.AssemblyReference.cache
+C:\Users\Андрей\Downloads\Telegram Desktop\HWID giver\HWID giver\HWID\obj\Debug\HWID.Form1.resources
+C:\Users\Андрей\Downloads\Telegram Desktop\HWID giver\HWID giver\HWID\obj\Debug\HWID.Properties.Resources.resources
+C:\Users\Андрей\Downloads\Telegram Desktop\HWID giver\HWID giver\HWID\obj\Debug\HWID.csproj.GenerateResource.cache
+C:\Users\Андрей\Downloads\Telegram Desktop\HWID giver\HWID giver\HWID\obj\Debug\HWID.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Downloads\Telegram Desktop\HWID giver\HWID giver\HWID\obj\Debug\HWID.csproj.Fody.CopyLocal.cache
+C:\Users\Андрей\Downloads\Telegram Desktop\HWID giver\HWID giver\HWID\obj\Debug\HWID.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\Андрей\Downloads\Telegram Desktop\HWID giver\HWID giver\HWID\obj\Debug\HWID.exe
+C:\Users\Андрей\Downloads\Telegram Desktop\HWID giver\HWID giver\HWID\obj\Debug\HWID.pdb
